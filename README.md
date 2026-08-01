@@ -1,10 +1,10 @@
 # PPGCNet
 Official implementation of PPGCNet
 
-# Project & Resources
-| Resource | Status | Link |
-| :--- | :--- | :--- |
-| 🌐 Project Page | LIVE! | [Click Here for Visualizations](https://y-rzjc.github.io/PPGCNet/) |
+# Resources
+| Resource | Link |
+| :--- | :--- |
+| 🌐 Project Page | [Visit Project Page](https://y-rzjc.github.io/PPGCNet/) |
 
 ## Code Availability 
 
