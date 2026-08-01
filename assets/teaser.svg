@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="620" viewBox="0 0 1400 620">
+  <rect width="1400" height="620" rx="28" fill="#f6f8fb"/>
+  <rect x="60" y="180" width="300" height="220" rx="22" fill="#ffffff" stroke="#cbd5e1" stroke-width="4"/>
+  <rect x="550" y="125" width="300" height="330" rx="22" fill="#ffffff" stroke="#94a3b8" stroke-width="4"/>
+  <rect x="1040" y="180" width="300" height="220" rx="22" fill="#ffffff" stroke="#cbd5e1" stroke-width="4"/>
+  <path d="M380 290 H520" stroke="#64748b" stroke-width="8" stroke-linecap="round"/>
+  <path d="M500 270 L530 290 L500 310" fill="none" stroke="#64748b" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M870 290 H1010" stroke="#64748b" stroke-width="8" stroke-linecap="round"/>
+  <path d="M990 270 L1020 290 L990 310" fill="none" stroke="#64748b" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="210" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#1e293b">Input</text>
+  <text x="700" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#1e293b">Your Method</text>
+  <text x="700" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#64748b">Replace this diagram</text>
+  <text x="1190" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#1e293b">Output</text>
+  <text x="700" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#64748b">assets/teaser.svg</text>
+</svg>
